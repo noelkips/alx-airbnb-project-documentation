@@ -1,1 +1,1 @@
-['Features'](features_and_functionalities.png)
+!['Features'](features_and_functionalities.png)
