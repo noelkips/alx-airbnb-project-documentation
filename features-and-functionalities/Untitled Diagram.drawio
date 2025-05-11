@@ -1,12 +1,14 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="27.0.3">
   <diagram name="Page-1" id="d8iw3T1ABsAOIs9P76uY">
-    <mxGraphModel dx="880" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="880" dy="1613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFCCCC" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="bQLmMlqFqpX7bCAApf-u-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="10" width="120" height="60" as="geometry" />
-        </mxCell>
+        <UserObject label="&lt;br&gt;&lt;a style=&quot;box-sizing: border-box; background-color: rgb(255, 255, 255); color: rgb(9, 105, 218); text-decoration: underline; font-weight: 600; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal;&quot; href=&quot;https://github.com/noelkips/alx-airbnb-project-documentation/tree/main&quot; data-testid=&quot;breadcrumbs-repo-link&quot; class=&quot;Box-sc-g0xbh4-0 kHuKdh prc-Link-Link-85e08&quot;&gt;alx-airbnb-project&lt;/a&gt;&amp;nbsp;Requirements&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" link="&#xa;&lt;a style=&quot;box-sizing: border-box; background-color: rgb(255, 255, 255); color: rgb(9, 105, 218); text-decoration: underline; font-weight: 600; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal;&quot; href=&quot;https://github.com/noelkips/alx-airbnb-project-documentation/tree/main&quot; data-testid=&quot;breadcrumbs-repo-link&quot; class=&quot;Box-sc-g0xbh4-0 kHuKdh prc-Link-Link-85e08&quot;&gt;alx-airbnb-project&lt;/a&gt;&#xa;&#xa;" id="bQLmMlqFqpX7bCAApf-u-1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="540" y="-80" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="bQLmMlqFqpX7bCAApf-u-6" value="&#xa;í ½í´” Notifications&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="980" y="160" width="120" height="60" as="geometry" />
         </mxCell>
@@ -23,7 +25,7 @@
           <mxGeometry x="630" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bQLmMlqFqpX7bCAApf-u-11" value="User&lt;div&gt;management&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="30" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bQLmMlqFqpX7bCAApf-u-12" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;í ½í»¡ï¸ Authentication &amp;amp; Security&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
           <mxGeometry x="1160" y="160" width="120" height="60" as="geometry" />
@@ -51,7 +53,7 @@
             <mxPoint x="270" y="90" as="sourcePoint" />
             <mxPoint x="320" y="40" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="75" y="80" />
+              <mxPoint x="80" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -76,7 +78,7 @@
         <mxCell id="bQLmMlqFqpX7bCAApf-u-26" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;âš™ï¸ Admin Dashboard&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
           <mxGeometry x="1320" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bQLmMlqFqpX7bCAApf-u-28" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="bQLmMlqFqpX7bCAApf-u-26">
+        <mxCell id="bQLmMlqFqpX7bCAApf-u-28" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="bQLmMlqFqpX7bCAApf-u-1" target="bQLmMlqFqpX7bCAApf-u-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="480" y="80" as="sourcePoint" />
             <mxPoint x="1251" y="166" as="targetPoint" />
